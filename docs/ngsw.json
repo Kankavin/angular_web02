@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1662010333637,
+  "timestamp": 1662010814358,
   "index": "/angular_web02/index.html",
   "assetGroups": [
     {
@@ -52,7 +52,7 @@
     "/angular_web02/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/angular_web02/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/angular_web02/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/angular_web02/index.html": "eebbdf4fda1a0fabd755c9501657b304f7712fad",
+    "/angular_web02/index.html": "962dea329527ea255b5521cdf55163f0b11403b3",
     "/angular_web02/main.269c996148857372.js": "73ca11257e1db41c447cd7fbecc3a31c8ac540ba",
     "/angular_web02/manifest.webmanifest": "944bc2b52897682ee506b5ae04173087502bb352",
     "/angular_web02/polyfills.7aa2c74c7f13be17.js": "10b883d617f0177f199b1def9e58de623280f6f2",
